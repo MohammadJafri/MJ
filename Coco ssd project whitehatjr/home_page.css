@@ -1,0 +1,27 @@
+#button_1
+
+{
+    background-color: white;
+    color: black;
+    
+    width: 200px;
+    height: 50px;
+}
+
+#button_2
+{
+    background-color: white;
+    color: black;
+    
+    width: 200px;
+    height: 50px;
+}
+
+#back_button
+{
+    background-color: black;
+    color: white;
+    float: bottom;
+    border-radius: 70px;
+   
+}

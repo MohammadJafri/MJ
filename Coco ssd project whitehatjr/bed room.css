@@ -1,0 +1,15 @@
+#back_button
+{
+    background-color: black;
+    color: white;
+    float: bottom;
+    border-radius: 70px;
+   
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+}
